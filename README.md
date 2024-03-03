@@ -1,1 +1,1 @@
-# xion
+# xion protocol
